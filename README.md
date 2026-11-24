@@ -2,7 +2,7 @@
 
 **5+ years** of dedicated modern frontend engineering (**Vue.js, Nuxt, Angular, TypeScript**), backed by a **22-year** software engineering foundation (including 16 years in Flash/ActionScript interactive architecture).
 
-I architect secure FinTech & banking interfaces, scalable B2B back-office platforms, and pixel-perfect responsive UIs—combining clean architecture (`SOLID`, `DRY`, `KISS`), frontend security, accessibility (`a11y`), and daily AI-augmented workflows (**Google Antigravity / Gemini**).
+I architect secure FinTech & banking interfaces, scalable B2B back-office platforms, and pixel-perfect responsive UIs—combining clean architecture (`SOLID`, `DRY`, `KISS`), frontend security, accessibility (`a11y`), and daily AI-augmented workflows.
 
 📍 Istanbul, Türkiye (`UTC+3`) · Open to **100% Remote (EMEA / Global)** & **Istanbul Hybrid**
 
