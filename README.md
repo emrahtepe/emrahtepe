@@ -2,14 +2,18 @@
 
 **5+ years** of dedicated modern frontend engineering (**Vue.js, Nuxt, Angular, TypeScript**), backed by a **22-year** software engineering foundation (including 16 years in Flash/ActionScript interactive architecture).
 
-I architect secure FinTech & banking interfaces, scalable B2B back-office platforms, and pixel-perfect responsive UIs—combining clean architecture (`SOLID`, `DRY`, `KISS`), frontend security, accessibility (`a11y`), and daily AI-augmented workflows.
+I architect secure FinTech & banking interfaces, scalable B2B back-office platforms, and pixel-perfect responsive UIs—combining clean architecture (`SOLID`, `DRY`, `KISS`), frontend security, accessibility (`a11y`), and daily AI-augmented workflows (**Google Antigravity / Gemini**).
 
 📍 Istanbul, Türkiye (`UTC+3`) · Open to **100% Remote (EMEA / Global)** & **Istanbul Hybrid**
 
 ---
 
-#### Featured Project
-- **[FinGuard AI](https://github.com/emrahtepe/finguard-ai)** — AI-assisted FinTech Transaction & Risk Compliance Dashboard built with **Next.js (App Router), React 19, TypeScript, Tailwind CSS, Zod, Vercel AI SDK (Gemini), CSP security headers, prompt-injection guardrails, and Vitest**.
+#### Featured Project — FinGuard AI (Multi-Framework FinTech Risk Suite)
+Same production-grade FinTech compliance dashboard (Zod validation, CSP security headers, prompt-injection guardrails, deterministic risk tools, Audit Trail, Vitest, GitHub Actions CI) engineered across **3 modern frontend architectures**:
+
+- **[FinGuard AI — Nuxt 3 + Vue 3](https://github.com/emrahtepe/finguard-ai-nuxt)** · Vue 3 Composition API, Nitro API, Gemini AI SDK, Tailwind CSS, Vitest
+- **[FinGuard AI — Angular 19](https://github.com/emrahtepe/finguard-ai-angular)** · Standalone Components, Angular Signals, `@if`/`@for`, Tailwind CSS v4, Vitest
+- **[FinGuard AI — Next.js App Router](https://github.com/emrahtepe/finguard-ai)** · React 19, Server Actions, `useOptimistic`, Gemini AI SDK, Tailwind CSS, Vitest
 
 ---
 
