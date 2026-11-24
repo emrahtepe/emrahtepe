@@ -13,7 +13,7 @@ Same production-grade FinTech compliance dashboard (Zod validation, CSP security
 
 - **[FinGuard AI — Nuxt 3 + Vue 3](https://github.com/emrahtepe/finguard-ai-nuxt)** · Vue 3 Composition API, Nitro API, Gemini AI SDK, Tailwind CSS, Vitest
 - **[FinGuard AI — Angular 19](https://github.com/emrahtepe/finguard-ai-angular)** · Standalone Components, Angular Signals, `@if`/`@for`, Tailwind CSS v4, Vitest
-- **[FinGuard AI — Next.js App Router](https://github.com/emrahtepe/finguard-ai)** · React 19, Server Actions, `useOptimistic`, Gemini AI SDK, Tailwind CSS, Vitest
+- **[FinGuard AI — Next.js App Router](https://github.com/emrahtepe/finguard-ai-next)** · React 19, Server Actions, `useOptimistic`, Gemini AI SDK, Tailwind CSS, Vitest
 
 ---
 
